@@ -19,3 +19,11 @@ Raw URL pattern: `https://raw.githubusercontent.com/Jonmarr95/techbros-marketing
 `*_ios.png` variants: App Store badge only, "Android coming soon" — the versions in use until the Google Play listing is approved. Swap to the non-suffixed files once it's live.
 
 Not for this repo: print files, brand guidelines, floor plans, or anything not meant for public distribution.
+
+## social/facebook/evergreen
+
+Eight non-app posts (shop intro, promotions, warranty, prep checklist, water resistance, business, parts). `captions.md` has copy and the October slots.
+
+## social/facebook/console-repair
+
+Four console posts (overview, PS5, Xbox, Switch). Console names are used descriptively only — no manufacturer logos, renders or brand colours.
