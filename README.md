@@ -1,0 +1,19 @@
+# Tech Bros — Marketing Assets
+
+Public host for finished marketing artwork (social graphics, digital signage frames). Files here are referenced by URL from the social scheduler, so **don't rename or move published files** — add new ones instead.
+
+Raw URL pattern: `https://raw.githubusercontent.com/Jonmarr95/techbros-marketing-assets/main/<path>`
+
+## social/facebook/2026-10-app-launch
+
+| File | Post |
+|---|---|
+| `TechBros_FB_01_launch.png` | Launch — "The Tech Bros app is here." |
+| `TechBros_FB_02_five_dollar_credit.png` | $5 store credit offer |
+| `TechBros_FB_03_track_repair.png` | Track your repair in real time |
+| `TechBros_FB_04_instant_quote.png` | Instant repair quotes |
+| `TechBros_FB_05_chat.png` | Chat with real people |
+| `TechBros_FB_06_everything_else.png` | Warranty countdown, barcode pickup, invoices |
+| `captions.md` | Ready-to-paste captions + posting notes |
+
+Not for this repo: print files, brand guidelines, floor plans, or anything not meant for public distribution.
