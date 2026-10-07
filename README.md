@@ -16,4 +16,6 @@ Raw URL pattern: `https://raw.githubusercontent.com/Jonmarr95/techbros-marketing
 | `TechBros_FB_06_everything_else.png` | Warranty countdown, barcode pickup, invoices |
 | `captions.md` | Ready-to-paste captions + posting notes |
 
+`*_ios.png` variants: App Store badge only, "Android coming soon" — the versions in use until the Google Play listing is approved. Swap to the non-suffixed files once it's live.
+
 Not for this repo: print files, brand guidelines, floor plans, or anything not meant for public distribution.
