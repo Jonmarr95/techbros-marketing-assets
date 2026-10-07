@@ -27,3 +27,7 @@ Eight non-app posts (shop intro, promotions, warranty, prep checklist, water res
 ## social/facebook/console-repair
 
 Four console posts (overview, PS5, Xbox, Switch). Console names are used descriptively only — no manufacturer logos, renders or brand colours.
+
+## social/facebook/halloween-2026
+
+Four seasonal posts (cracked-screen "scariest sound", ghost touch, trick-or-treat parent checklist, Happy Halloween with candy bowl + photo op). Generic pumpkins/ghosts/bats only.
